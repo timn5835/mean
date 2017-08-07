@@ -1,0 +1,17 @@
+{
+  "name": "mean-test",
+  "version": "1.0.0",
+  "description": "MEAN Stack Blog",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Tim Nguyen",
+  "license": "ISC"
+}
